@@ -51,7 +51,7 @@ The repository contains an Unreal map at `Content/Earthquake.umap` and three exp
 
 ## My work and collaboration
 
-This repository is presented as a **level-design portfolio project**. The overview describes design objectives; detailed attribution of original meshes, textures, sounds, and any collaborators should be added before publishing. Do not assume that all assets inside the repository are original or redistributable.
+This repository is presented as a **level-design portfolio project**. The overview describes design objectives; detailed attribution of original meshes, textures, sounds, and any collaborators still needs to be added. Since this repository is public, verify that included materials may be redistributed. Do not assume that all assets inside the repository are original or redistributable.
 
 ## Demo and project status
 
@@ -63,4 +63,4 @@ For a recruiter-facing portfolio, the next step is to add a short walkthrough vi
 
 ---
 
-*Documentation prepared for portfolio presentation. Repository remains private pending asset and attribution review.*
+*This repository is public. Asset licensing, attribution, gameplay verification, and a demo still require review.*
