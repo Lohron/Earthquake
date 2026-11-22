@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jwloh\\documents\\unreal projects\\earthquake\\intermediate\\source\\earthquake.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jwloh\\documents\\unreal projects\\earthquake\\intermediate\\build\\win64\\x64\\earthquake\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jwloh\\documents\\unreal projects\\earthquake\\intermediate\\build\\win64\\x64\\unrealgame\\development\\earthquake\\definitions.earthquake.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jwloh\\Documents\\Unreal Projects\\Earthquake\\Intermediate\\Source\\Earthquake.Build.cs",
+		"C:\\Users\\jwloh\\Documents\\Unreal Projects\\Earthquake\\Intermediate\\Source\\Earthquake.Target.cs",
+		"C:\\Users\\jwloh\\Documents\\Unreal Projects\\Earthquake\\Intermediate\\Source\\EarthquakeClient.Target.cs",
+		"C:\\Users\\jwloh\\Documents\\Unreal Projects\\Earthquake\\Intermediate\\Source\\EarthquakeEditor.Target.cs",
+		"C:\\Users\\jwloh\\Documents\\Unreal Projects\\Earthquake\\Intermediate\\Source\\EarthquakeServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

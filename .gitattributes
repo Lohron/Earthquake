@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Binaries/Win64/Earthquake.exe filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/Earthquake.pdb filter=lfs diff=lfs merge=lfs -text
+Intermediate/CachedAssetRegistry_0.bin filter=lfs diff=lfs merge=lfs -text
+Intermediate/Build/Win64/x64/Earthquake/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.pch filter=lfs diff=lfs merge=lfs -text
+Product/Loh_Project2_Final.zip filter=lfs diff=lfs merge=lfs -text
+Product/Loh_Project2_Version1.zip filter=lfs diff=lfs merge=lfs -text
+Product/Loh_Project2_Version2.zip filter=lfs diff=lfs merge=lfs -text
+Product/New/Windows/Earthquake/Binaries/Win64/Earthquake.exe filter=lfs diff=lfs merge=lfs -text
+Product/New/Windows/Earthquake/Binaries/Win64/Earthquake.pdb filter=lfs diff=lfs merge=lfs -text
+Product/New/Windows/Earthquake/Content/Paks/Earthquake-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+Product/Windows/Earthquake/Binaries/Win64/Earthquake.exe filter=lfs diff=lfs merge=lfs -text
+Product/Windows/Earthquake/Binaries/Win64/Earthquake.pdb filter=lfs diff=lfs merge=lfs -text
+Product/Windows/Earthquake/Content/Paks/Earthquake-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+Saved/Cooked/Windows/Earthquake/Content/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+Saved/Cooked/Windows/Earthquake/Metadata/ShaderLibrarySource/ShaderArchive-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-Global-PCD3D_SM6-PCD3D_SM6.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/Windows/Earthquake/Binaries/Win64/Earthquake.exe filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/Windows/Earthquake/Binaries/Win64/Earthquake.pdb filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/Windows/Earthquake/Content/Paks/Earthquake-Windows.ucas filter=lfs diff=lfs merge=lfs -text
