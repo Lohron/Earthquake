@@ -1,1 +1,25 @@
-# This repository tracks Unreal build output and packaged files.
+# Unreal Engine generated files — rules apply to future additions.
+# Existing tracked files require a separate git rm --cached operation.
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.tmp
+*.log
+
+# Packaged executables / archives (keep authored screenshots in Product/New/Composed Scenes)
+/Product/Windows/
+/Product/New/Windows/
+/Product/*.zip
+
+# Local platform artifacts
+.DS_Store
+Thumbs.db
